@@ -1,10 +1,8 @@
 package com.main.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 import java.util.List;
 
@@ -25,6 +23,8 @@ public class Roles {
     @Column(name = "name_role", nullable = false, length = 10)
     private String nameRole;
 
-    @ManyToMany(mappedBy = "roles")
+    @ManyToMany(fetch = FetchType.EAGER, mappedBy = "roles")
+    @JsonIgnore
+    @EqualsAndHashCode.Exclude
     private List<Users> users;
 }

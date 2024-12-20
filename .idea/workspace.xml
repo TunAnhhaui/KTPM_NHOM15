@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42e155d9-13b2-45cb-871a-4af79906bc79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/controller/BrandControllerADTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/controller/ProcessControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/repository/ProductRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/repository/UserRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/service/ProductTypeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/main/service/RoleServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/ProcessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/ProcessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/UserControllerAD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/UserControllerAD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/entity/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/entity/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/entity/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/entity/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/repository/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/repository/ProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/controller/admin/ProcessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/controller/admin/ProcessController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/controller/admin/UserControllerAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/controller/admin/UserControllerAD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/DiscountsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/DiscountsDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ProductRateDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ProductRateDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ProductsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ProductsDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ResponseObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ResponseObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/RevenueDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/RevenueDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/SaleOffDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/SaleOffDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/UserDiscountsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/UserDiscountsDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/UsersDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/UsersDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/entity/Roles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/entity/Roles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/repository/ProductsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/repository/ProductsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/main/UserController/testProfileUser.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ovwvT9AOJ9pIILvh6hK0cpLIwr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.main.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BrandControllerADTest.testIsStatusDeleteProductBrandValue">
+    <configuration name="BrandControllerADTest.testIsStatusDeleteProductBrandValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolarBachThinh-BackEndAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.main.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.main.controller.BrandControllerADTest" />
+      <option name="METHOD_NAME" value="testIsStatusDeleteProductBrandValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductRepositoryTest.testFindByCategoryId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolarBachThinh-BackEndAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.main.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.main.repository.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindByCategoryId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductRepositoryTest.testFindByProductTypeId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolarBachThinh-BackEndAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.main.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.main.repository.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindByProductTypeId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleServiceImplTest.testFindAllRoles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolarBachThinh-BackEndAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.main.service" />
+      <option name="MAIN_CLASS_NAME" value="com.main.service.RoleServiceImplTest" />
+      <option name="METHOD_NAME" value="testFindAllRoles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleServiceImplTest.testFindByNameRole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolarBachThinh-BackEndAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.main.service" />
+      <option name="MAIN_CLASS_NAME" value="com.main.service.RoleServiceImplTest" />
+      <option name="METHOD_NAME" value="testFindByNameRole" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SolarBachThinh-BackEndAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.main.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BrandControllerADTest.testIsStatusDeleteProductBrandValue" />
+        <item itemvalue="JUnit.RoleServiceImplTest.testFindByNameRole" />
+        <item itemvalue="JUnit.RoleServiceImplTest.testFindAllRoles" />
+        <item itemvalue="JUnit.ProductRepositoryTest.testFindByProductTypeId" />
+        <item itemvalue="JUnit.ProductRepositoryTest.testFindByCategoryId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e155d9-13b2-45cb-871a-4af79906bc79" name="Changes" comment="" />
+      <created>1731763589943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731763589943</updated>
+      <workItem from="1731763591814" duration="4750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/main/controller/ProcessControllerTest.java</url>
+          <line>45</line>
+          <properties class="com.main.controller.admin.ProcessControllerTest" method="testFilterOrdersByUniqueYear">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
