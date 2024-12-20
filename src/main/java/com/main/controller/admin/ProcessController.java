@@ -149,7 +149,7 @@ public class ProcessController {
 
 
     // Phương thức phụ trợ để tạo dữ liệu lợi nhuận rỗng
-    private List<BigDecimal> generateEmptyProfitData() {
+    public List<BigDecimal> generateEmptyProfitData() {
         List<BigDecimal> profitData = new ArrayList<>();
         for (int month = 1; month <= 12; month++) {
             profitData.add(BigDecimal.ZERO);
