@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42e155d9-13b2-45cb-871a-4af79906bc79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/controller/BrandControllerADTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/controller/ProcessControllerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/repository/ProductRepositoryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/repository/UserRepositoryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/service/ProductTypeServiceImplTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/main/service/RoleServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/controller/BrandControllerADTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/controller/ProcessControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/repository/ProductRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/repository/UserRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/service/ProductTypeServiceImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/main/service/RoleServiceImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/ProcessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/ProcessController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/UserControllerAD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/controller/admin/UserControllerAD.java" afterDir="false" />
@@ -22,14 +31,6 @@
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/main/controller/admin/ProcessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/controller/admin/ProcessController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/main/controller/admin/UserControllerAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/controller/admin/UserControllerAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/DiscountsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/DiscountsDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ProductRateDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ProductRateDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ProductsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ProductsDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/ResponseObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/ResponseObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/RevenueDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/RevenueDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/SaleOffDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/SaleOffDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/UserDiscountsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/UserDiscountsDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/dto/UsersDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/dto/UsersDto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/main/entity/Roles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/entity/Roles.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/main/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/entity/Users.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/main/repository/ProductsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/repository/ProductsRepository.class" afterDir="false" />
@@ -49,14 +50,27 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TunAnhhaui"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TunAnhhaui/KTPM_NHOM15.git",
+    "accountId": "203c0e83-4564-40a5-adde-fc458e9ddcb7"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ovwvT9AOJ9pIILvh6hK0cpLIwr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,6 +84,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Merging master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -182,6 +197,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -197,13 +220,51 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="junit" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/main/controller/ProcessControllerTest.java</url>
           <line>45</line>
-          <properties class="com.main.controller.admin.ProcessControllerTest" method="testFilterOrdersByUniqueYear">
+          <properties class="com.main.controller.ProcessControllerTest" method="testFilterOrdersByUniqueYear">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

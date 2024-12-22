@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="995acdf0-c20d-4e95-b9a3-c14efa59ab64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/controller/BrandControllerADTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/controller/ProcessControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/repository/ProductRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/repository/UserRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/service/ProductTypeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/test/java/com/main/service/RoleServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/controller/admin/ProcessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/controller/admin/ProcessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/controller/admin/UserControllerAD.java" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/controller/admin/UserControllerAD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/entity/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/entity/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/entity/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/entity/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/repository/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/java/com/main/repository/ProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/controller/admin/ProcessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/controller/admin/ProcessController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/controller/admin/UserControllerAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/controller/admin/UserControllerAD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/entity/Roles.class" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/entity/Roles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/repository/ProductsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/KTPM_NHOM15/target/classes/com/main/repository/ProductsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTPM_NHOM15/target/test-classes/com/main/UserController/testProfileUser.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2qUJgEQUCZKIW7PvsKP36bOYCtP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MainApplicationTests.executor": "Run",
+    "JUnit.ProcessControllerTest.executor": "Run",
+    "JUnit.ProductRepositoryTest.executor": "Run",
+    "JUnit.ProductTypeServiceImplTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MainApplication.executor": "Run",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Learn.Haui/Ki_5/Kiem_Thu_Phan_Mem/KTPM_NHOM15",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SolarBachThinh-BackEndAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.main.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995acdf0-c20d-4e95-b9a3-c14efa59ab64" name="Changes" comment="" />
+      <created>1734711329778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734711329778</updated>
+      <workItem from="1734711330970" duration="2014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
