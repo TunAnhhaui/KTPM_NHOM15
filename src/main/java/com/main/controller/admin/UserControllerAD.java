@@ -9,6 +9,7 @@ import com.main.service.UserService;
 import com.main.utils.EncodeUtils;
 import com.main.utils.EntityDtoUtils;
 import jakarta.servlet.http.HttpSession;
+import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -60,10 +61,7 @@ public class UserControllerAD {
 
     @PostMapping("them-tai-khoan")
     public String postAccount_add(@Valid UsersDto usersDto) {
-        Roles role = roleService.findByNameRole("ROLE_USER");
-
         usersDto.setAcctive(true);
-        usersDto.setRoles(List.of(role));
         Users users = EntityDtoUtils.convertToEntity(usersDto, Users.class);
         userService.save(users);
         session.setAttribute("toastSuccess", "Thêm thành công!");
@@ -72,7 +70,7 @@ public class UserControllerAD {
     }
 
     @GetMapping("sua-tai-khoan/id={userId}")
-    public String account_edit(@PathVariable int userId, Model model) {
+    public String account_edit_page(@PathVariable int userId, Model model) {
         Users users = userService.findById(userId);
 
         model.addAttribute("password", users.getPassword());

@@ -12,9 +12,9 @@ public interface ProductsRepository extends JpaRepository<Products, String> {
     List<Products> findAllById(String productId);
 
     @Query("SELECT p, br FROM Products p " +
-            "JOIN p.productBrandsByProductBrandId br " +
-            "JOIN p.productTypesByProductTypeId pt " +
-            "JOIN pt.productCategoriesByCategoryId c  " +
+            "LEFT JOIN p.productBrandsByProductBrandId br " +
+            "LEFT JOIN p.productTypesByProductTypeId pt " +
+            "LEFT JOIN pt.productCategoriesByCategoryId c  " +
             "WHERE c.id = :categoryId " +
             "ORDER BY p.dateCreated DESC LIMIT 10"
     )
